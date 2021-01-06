@@ -12,7 +12,11 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Django" width="26px" src="https://content.nexza.com/stack-items/pytest.c0a818de.png" />
+<img align="left" alt="Pytest" width="26px" src="https://content.nexza.com/stack-items/pytest.c0a818de.png" />
+
+<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
+
+
 
 <br />
 
