@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science student at UFPA focused in Software Engineering and Web Development.
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything, but I spend a lot of time learning about Tests, API's and Web Dev
 - 👯 I’m looking to collaborate with Python projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: srleonardofurtado@gmail.com
@@ -13,8 +13,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Pytest" width="26px" src="https://content.nexza.com/stack-items/pytest.c0a818de.png" />
-
-<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
+<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png"/>
+<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/>
 
 
 
