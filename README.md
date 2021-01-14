@@ -8,7 +8,7 @@
 - 📫 How to reach me: srleonardofurtado@gmail.com
 - 😄 Pronouns: He/Him
 
-### Languages and Tools:
+### Languages and tools I'm using and studying:
 
   <img align="left" alt="Python" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
   <img align="left" alt="Django" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
