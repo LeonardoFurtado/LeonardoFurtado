@@ -23,7 +23,7 @@
 ### 📕 Latest Dev Posts
 
 <!-- BLOG-POST-LIST:START -->
-= [Python utility belt: unpacking tuples](https://dev.to/furtleo/python-utility-belt-unpacking-tuples-fal)
+- [Python utility belt: unpacking tuples](https://dev.to/furtleo/python-utility-belt-unpacking-tuples-fal)
 - [When did you feel that your OOP skills were sharpened?](https://dev.to/furtleo/when-did-you-feel-that-your-opp-skills-were-shapened-255h)
 - [How to create an OSS project is helping me ](https://dev.to/furtleo/how-to-create-an-oss-project-is-helping-me-2350)
 - [How do you organize your virtual environments?](https://dev.to/furtleo/how-do-you-organize-your-virtual-environments-1gk)
