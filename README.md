@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science student at UFPA focused in Software Engineering and Web Development.
 
-- 🌱 I’m currently learning everything, but I spend a lot of time learning about Tests, API's and Web Dev
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with Python projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: srleonardofurtado@gmail.com
