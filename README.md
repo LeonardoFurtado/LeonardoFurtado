@@ -17,7 +17,6 @@
   <img align="left" alt="docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 
 <br/>
-<br/>
 
 ### 📕 Latest Dev Posts
 
