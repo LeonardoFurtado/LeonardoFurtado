@@ -21,6 +21,7 @@
 ### 📕 Latest Dev Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [(Pt-Br) Como eu consegui meu primeiro emprego como desenvolvedor júnior ](https://dev.to/furtleo/como-eu-consegui-meu-primeiro-emprego-como-desenvolvedor-junior-1oaa)
 - [Python utility belt: unpacking tuples](https://dev.to/furtleo/python-utility-belt-unpacking-tuples-fal)
 - [When did you feel that your OOP skills were sharpened?](https://dev.to/furtleo/when-did-you-feel-that-your-opp-skills-were-shapened-255h)
 - [How to create an OSS project is helping me ](https://dev.to/furtleo/how-to-create-an-oss-project-is-helping-me-2350)
