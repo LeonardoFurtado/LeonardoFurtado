@@ -1,6 +1,6 @@
 ### Hi there, I'm Leonardo, a Software Necromancer 👻
 
-### I'm a Computer Science student at UFPA focused in Software Engineering and Web Development.
+### I'm a Computer Science student at UFPA, currently focused in software engineering and web development.
 
 - 🌱 I’m currently learning about React and Frontend technologies
 - 👯 I’m looking to collaborate with Python projects
