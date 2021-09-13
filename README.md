@@ -1,4 +1,4 @@
-### Hi there, I'm Leonardo, a Software Necromancer 👻
+### Hi there, I'm Leonardo, a Backend Software Developer
 
 ### I'm a Computer Science student at UFPA, currently focused in software engineering and web development.
 
