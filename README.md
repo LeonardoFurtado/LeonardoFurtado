@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with Python projects
 - 🥅 2021 Goals: Contribute more to Open Source projects, become a fullstack developer.
 - 📫 How to reach me: srleonardofurtado@gmail.com
-- 😄 Pronouns: He/Him/Bro
+- 😄 Pronouns: He/Him
 
 ### Languages and tools I'm using and studying:
 
