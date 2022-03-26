@@ -1,10 +1,8 @@
 ### Hi there, I'm Leonardo, a Backend Software Developer
 
-### I'm a Computer Science student at UFPA, currently focused in software engineering and web development.
-
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate with Python projects
-- 🥅 2021 Goals: Contribute more to Open Source projects, become a fullstack developer.
+- 🥅 2022 Goals: Contribute more to Open Source projects and learn about software architecture.
 - 📫 How to reach me: srleonardofurtado@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -18,6 +16,8 @@
   <img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
   <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
   <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>
+  <img align="left" alt="AWS" width="40px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>
   
   
 
