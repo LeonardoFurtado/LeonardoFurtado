@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate with Python projects
-- 🥅 2022 Goals: Contribute more to Open Source projects and learn about software architecture.
+- 🥅 2022 Goals: Contribute more to open source projects and learn about software architecture.
 - 📫 How to reach me: srleonardofurtado@gmail.com
 - 😄 Pronouns: He/Him
 
