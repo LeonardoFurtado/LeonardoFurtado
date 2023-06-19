@@ -28,8 +28,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <!-- BLOG-POST-LIST:START -->
 - [(Pt-Br) Como eu consegui meu primeiro emprego como desenvolvedor júnior ](https://dev.to/furtleo/como-eu-consegui-meu-primeiro-emprego-como-desenvolvedor-junior-1oaa)
 - [Python utility belt: unpacking tuples](https://dev.to/furtleo/python-utility-belt-unpacking-tuples-fal)
-- [When did you feel that your OOP skills were sharpened?](https://dev.to/furtleo/when-did-you-feel-that-your-opp-skills-were-shapened-255h)
-- [How to create an OSS project is helping me ](https://dev.to/furtleo/how-to-create-an-oss-project-is-helping-me-2350)
 - [How do you organize your virtual environments?](https://dev.to/furtleo/how-do-you-organize-your-virtual-environments-1gk)
 - [Python Utility Belt: Replacing differents chars in a String.](https://dev.to/furtleo/python-utility-belt-replacing-differents-chars-in-a-string-21ko)
 <!-- BLOG-POST-LIST:END -->
