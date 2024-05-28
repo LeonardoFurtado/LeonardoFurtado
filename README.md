@@ -2,9 +2,10 @@
 
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate with Python projects
-- 🥅 2022 Goals: Contribute more to open source projects and learn about software architecture.
+- 🥅 2024 Goals: Learn more about microservices and domain-drive design.
 - 📫 How to reach me: srleonardofurtado@gmail.com
 - 😄 Pronouns: He/Him
+- Currently reading: [Microservices patterns](https://microservices.io/book)
 
 ### Languages and tools I'm using and studying:
 
