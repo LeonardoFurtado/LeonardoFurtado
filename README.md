@@ -26,6 +26,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ### 📕 Latest Dev Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [(en-US) Focusing on high code coverage can be a trap ](https://dev.to/furtleo/focusing-on-high-code-coverage-can-be-a-trap-5644)
 - [(Pt-Br) Como eu consegui meu primeiro emprego como desenvolvedor júnior ](https://dev.to/furtleo/como-eu-consegui-meu-primeiro-emprego-como-desenvolvedor-junior-1oaa)
 - [Python utility belt: unpacking tuples](https://dev.to/furtleo/python-utility-belt-unpacking-tuples-fal)
 - [How do you organize your virtual environments?](https://dev.to/furtleo/how-do-you-organize-your-virtual-environments-1gk)
