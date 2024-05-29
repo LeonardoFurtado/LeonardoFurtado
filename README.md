@@ -33,7 +33,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - [How do you organize your virtual environments?](https://dev.to/furtleo/how-do-you-organize-your-virtual-environments-1gk)
 - [Python Utility Belt: Replacing differents chars in a String.](https://dev.to/furtleo/python-utility-belt-replacing-differents-chars-in-a-string-21ko)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-[![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=LeonardoFurtado&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
