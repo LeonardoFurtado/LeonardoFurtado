@@ -12,7 +12,7 @@
 
 <br/>
 
-### 📕 Latest Dev Posts
+### 📕 Last blog posts I wrote
 
 <!-- BLOG-POST-LIST:START -->
 - [(en-US) Focusing on high code coverage can be a trap ](https://dev.to/furtleo/focusing-on-high-code-coverage-can-be-a-trap-5644)
