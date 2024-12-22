@@ -7,7 +7,7 @@
 - Currently reading: [Microservices patterns](https://microservices.io/book)
 
 ### Main Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,django,js,react,docker,aws,postgresql,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,js,react,postgresql)](https://skillicons.dev)
   
 
 <br/>
