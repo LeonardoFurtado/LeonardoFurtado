@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate with Python projects
-- 🥅 2024 Goals: Learn more about microservices and domain-drive design.
+- 🥅 2025 Goals: Learn more about domain-drive design.
 - 📫 How to reach me: srleonardofurtado@gmail.com
 - Currently reading: [Microservices patterns](https://microservices.io/book)
 
