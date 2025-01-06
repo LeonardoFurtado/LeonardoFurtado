@@ -1,4 +1,4 @@
-### Hi there, I'm Leonardo, a Backend Software Developer
+### Hi there, I'm Leonardo, a Software Developer
 
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate with Python projects
