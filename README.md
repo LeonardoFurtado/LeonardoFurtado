@@ -1,10 +1,9 @@
 ### Hi there, I'm Leonardo, a Software Engineer
 
 - 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate with Python projects
 - 🥅 2025 Goals: Learn more about domain-driven design.
 - 📫 How to reach me: srleonardofurtado@gmail.com
-- Currently reading: [Microservices patterns](https://microservices.io/book)
+- Currently reading: [Refactoring](https://martinfowler.com/books/refactoring.html)
 
 ### Main Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,django,js,react,postgresql)](https://skillicons.dev)
