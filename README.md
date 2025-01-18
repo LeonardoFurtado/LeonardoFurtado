@@ -1,7 +1,8 @@
-### Hi there, I'm Leonardo, a Software Engineer
+### 
+Hi, I'm Leonardo, a Software Engineer based in Brazil
 
 - currently learning Go
 - 2025 Goals: Learn more about domain-driven design.
-- Currently reading: [Refactoring](https://martinfowler.com/books/refactoring.html)  
+- reading: [Refactoring](https://martinfowler.com/books/refactoring.html)  
 
 <br/>
